@@ -42,6 +42,7 @@ public class BabySitterTests {
   assertEquals(arrivalTime, sitter.gettime(10, 0));
 
  }
+ 
  @Test
  public void setDepartureTimeat6() {
   BabySitterTimer sitter = new BabySitterTimer();
