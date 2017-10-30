@@ -1,4 +1,4 @@
-package babysitterapp;
+package babySitterApp;
 
 import java.time.LocalTime;
 import java.time.temporal.ChronoUnit;

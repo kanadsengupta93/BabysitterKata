@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 import org.junit.Test;
 
-import babysitterapp.BabySitterTimer;
+import babySitterApp.BabySitterTimer;
 
 
 public class BabySitterTests {
